@@ -3,7 +3,7 @@ url: https://www.lkm.org.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#0c015f"
-  secondary-color: "#4372d6"
+  secondary-color: "#41b001"
   media-colors:
     - title: media-color-one
       color: "#49759a"
