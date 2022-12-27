@@ -2,7 +2,15 @@ logo: /images/isomer-logo.svg
 links:
   - title: ABOUT LKM
     collection: example-folder
-  - title: Contact Us
+  - title: MEMBER PRIVILEGES
+    collection: example-folder
+  - title: EVENTS
+    collection: example-folder
+  - title: THE COMMITTEE
+    collection: example-folder
+  - title: RESOURCES
+    collection: example-folder
+  - title: GET IN TOUCH
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: BE A MEMBER
+    url: /permalink
