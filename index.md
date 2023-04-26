@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/lkm-banner.png
       key_highlights:
         - title: BECOME A MEMBER
           description: Membership Application
@@ -23,6 +23,8 @@ sections:
         - title: JOIN OUR EVENTS
           description: List of Events & Happenings
           url: ""
+      title: Lembaga Khairat Muslimin
+      subtitle: BERIMAN ● BERILMU ● BERAMAL
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
