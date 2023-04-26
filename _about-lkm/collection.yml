@@ -2,5 +2,6 @@ collections:
   about-lkm:
     output: true
     order:
+      - Our Objectives.md
       - Introduction.md
       - Our History.md
