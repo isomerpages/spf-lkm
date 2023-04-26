@@ -4,7 +4,7 @@ title: Lembaga Khairat Muslimin Polis Repablik Singapura
 description: The Lembaga Khairat Muslimin Polis Repablik Singapura (LKM) is an
   approved voluntary enterprise formed to advance religious instruction among
   Muslim members of the Singapore Police Force (SPF).
-image: /images/isomer-logo.svg
+image: /images/logo-black.png
 permalink: /
 notification: ""
 sections:
