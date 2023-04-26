@@ -36,12 +36,13 @@ sections:
   - infopic:
       title: LKM Madrasah Study Grant 2022 Disbursement
       subtitle: LATEST UPDATE
-      description: A total of $38,900 has been disbursed to 254 members’ children who
-        are undergoing Full-Time & Part-Time madrasah education.
+      description: A total of $38,900 was disbursed on 20 March 2023 to 254 members’
+        children who underwent Full-Time & Part-Time madrasah education in
+        Y2022.
       alt: Image alt text
   - infopic:
       title: Infopic Title
-      subtitle: Infopic Subtitle
+      subtitle: PAST EVENT
       description: Infopic description
       button: Button Text
       alt: Image alt text
