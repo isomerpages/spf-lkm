@@ -2,5 +2,6 @@ collections:
   the-committee:
     output: true
     order:
+      - Management Committee.md
       - Divisional & Unit Reps.md
       - LKM Office.md
