@@ -3,7 +3,7 @@ title: Our Objectives
 permalink: /about-lkm/objectives/
 description: ""
 ---
-#### **FACILITATE**
+#### **Facilitate**
 
   
 
@@ -11,7 +11,7 @@ To facilitate for the **relevant needs and practices** of its members pertaini
 
   
 
-#### **DISTRIBUTE**
+#### **Distribute**
 
   
 
@@ -19,7 +19,7 @@ To **raise and receive funds** and where sufficient to distribute the same for
 
   
 
-#### **COMMUNITY**
+#### **Community**
 
   
 
@@ -27,7 +27,7 @@ To give **material assistance** considered as reasonable by the Management Com
 
   
 
-#### **SOCIAL**
+#### **Social**
 
   
 
@@ -35,7 +35,7 @@ To **organise** sports, recreational and social **activities**.
 
   
 
-#### **GUIDANCE**
+#### **Guidance**
 
   
 
