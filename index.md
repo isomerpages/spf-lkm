@@ -40,6 +40,7 @@ sections:
         children who underwent Full-Time & Part-Time madrasah education in
         Y2022.
       alt: Image alt text
+      image: /images/madrasah-grant.png
   - infopic:
       title: LKM Family & Friends Bowling Challenge 2022
       subtitle: PAST EVENT
