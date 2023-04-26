@@ -19,7 +19,7 @@ sections:
           url: https://gmail.com
         - title: APPLY FOR A GRANT
           description: Grant Application
-          url: bit.ly/lkmgrant
+          url: http://bit.ly/lkmgrant
         - title: JOIN OUR EVENTS
           description: List of Events & Happenings
           url: ""
