@@ -29,7 +29,7 @@ sections:
       title: LKM 66th AGM & Hari Raya Gathering
       subtitle: UPCOMING EVENT
       description: 📅 18 May 2023 ⏱ 10:00 - 14:30 📍HTNS Khatib, 2 Yishun Walk S767944
-      button: JOIN US FOR THIS EVENT
+      button: REGISTER FOR THIS EVENT
       alt: Image alt text
       image: /images/66thagm.png
       url: /privacy/
