@@ -1,0 +1,4 @@
+collections:
+  about-lkm:
+    output: true
+    order: []
