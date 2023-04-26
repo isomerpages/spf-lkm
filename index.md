@@ -34,10 +34,10 @@ sections:
       image: /images/66thagm.png
       url: /privacy/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: LKM Madrasah Study Grant 2022 Disbursement
+      subtitle: LATEST UPDATE
+      description: A total of $38,900 has been disbursed to 254 members’ children who
+        are undergoing Full-Time & Part-Time madrasah education.
       alt: Image alt text
   - infopic:
       title: Infopic Title
