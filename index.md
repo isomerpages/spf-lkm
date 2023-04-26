@@ -41,9 +41,10 @@ sections:
         Y2022.
       alt: Image alt text
   - infopic:
-      title: Infopic Title
+      title: LKM Family & Friends Bowling Challenge 2022
       subtitle: PAST EVENT
-      description: Infopic description
-      button: Button Text
+      description: 📅 26 Nov 2022 📍Civil Service Club @ Bukit Batok
+      button: VIEW EVENT
       alt: Image alt text
+      url: /privacy/
 ---
