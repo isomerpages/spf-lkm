@@ -1,0 +1,4 @@
+collections:
+  the-committee:
+    output: true
+    order: []
