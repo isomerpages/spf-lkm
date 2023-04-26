@@ -28,10 +28,11 @@ sections:
   - infopic:
       title: LKM 66th AGM & Hari Raya Gathering
       subtitle: EVENTS & HAPPENINGS
-      description: Infopic description
-      button: Button Text
+      description: 📅 18 May 2023 ⏱ 10:00 - 14:30 📍HTNS Khatib, 2 Yishun Walk S767944
+      button: JOIN US FOR THIS EVENT
       alt: Image alt text
       image: /images/66thagm.png
+      url: /privacy/
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
