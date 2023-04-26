@@ -2,7 +2,7 @@ collections:
   about-lkm:
     output: true
     order:
-      - The Constitution.md
       - Introduction.md
       - Our History.md
       - Our Objectives.md
+      - The Constitution.md
