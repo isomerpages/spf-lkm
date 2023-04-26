@@ -1,4 +1,5 @@
 collections:
   the-committee:
     output: true
-    order: []
+    order:
+      - LKM Office.md
