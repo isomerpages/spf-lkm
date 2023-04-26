@@ -27,7 +27,7 @@ sections:
       subtitle: BERIMAN ● BERILMU ● BERAMAL
   - infopic:
       title: LKM 66th AGM & Hari Raya Gathering
-      subtitle: EVENTS & HAPPENINGS
+      subtitle: UPCOMING EVENT
       description: 📅 18 May 2023 ⏱ 10:00 - 14:30 📍HTNS Khatib, 2 Yishun Walk S767944
       button: JOIN US FOR THIS EVENT
       alt: Image alt text
