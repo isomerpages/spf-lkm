@@ -26,11 +26,12 @@ sections:
       title: Lembaga Khairat Muslimin
       subtitle: BERIMAN ● BERILMU ● BERAMAL
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
+      title: LKM 66th AGM & Hari Raya Gathering
+      subtitle: EVENTS & HAPPENINGS
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      image: /images/66thagm.png
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
