@@ -1,7 +1,7 @@
 logo: /images/logo-black.png
 links:
   - title: ABOUT LKM
-    collection: example-folder
+    collection: about-lkm
   - title: MEMBER PRIVILEGES
     collection: example-folder
   - title: EVENTS
