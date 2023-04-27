@@ -6,7 +6,7 @@ description: ""
 | <img style="float:left;width:220px;height:220px;" src="/images/rasidie.png"> | <img style="float:left;width:220px;height:220px;" src="/images/junaidah.png"> | <img style="float:left;width:220px;height:220px;" src="/images/herry-haryadi.png">
 | -------- | -------- | -------- |
 | **REP 'A' DIV**  | **ASST REP 'A' DIV** | **REP 'D' DIV** |
-| ♀ **Rasidie Rasid**<br>📇  DOC CSF, Marina Bay NPC<br>📞 6435 9146<br>📩 Rasidie_RASID@spf.gov.sg | ♂ **Junaidah Hayoon**<br>📇 Divisional Training Officer<br>📞 6557 5110<br>📩 Junaidah_HAYOON@spf.gov.sg | ♀ **Md Herry Haryadi Mansori**<br>📇 DOC CPU, Bt Merah West NPC<br>📞 6556 1980<br>📩 Herry_Haryadi_MANSORI@spf.gov.sg |
+| ♀ **Rasidie Rasid**<br>📇  DOC CSF, Marina Bay NPC<br>📞 6435 9146<br>📩 Rasidie_RASID@spf.gov.sg | ♂ **Junaidah Hayoon**<br>📇 Divisional Training Officer<br>📞 6557 5110<br>📩 Junaidah_HAYOON@spf.gov.sg | ♀ **Md Herry Haryadi Mansori**<br>📇 DOC CPU, BMW NPC<br>📞 6377 3979<br>📩 Herry_Haryadi_MANSORI@spf.gov.sg |
 | <img style="float:left;width:220px;height:220px;" src="/images/shahid.png"> | <img style="float:left;width:220px;height:220px;" src="/images/norashidi.png"> | <img style="float:left;width:220px;height:220px;" src="/images/amirudin.png">
-| **REP 'A' DIV**  | **ASST REP 'A' DIV** | **REP 'D' DIV** |
-| ♀ **Rasidie Rasid**<br>📇  DOC CSF, Marina Bay NPC<br>📞 6435 9146<br>📩 Rasidie_RASID@spf.gov.sg | ♂ **Junaidah Hayoon**<br>📇 Divisional Training Officer<br>📞 6557 5110<br>📩 Junaidah_HAYOON@spf.gov.sg | ♀ **Md Herry Haryadi Mansori**<br>📇 DOC CPU, Bt Merah West NPC<br>📞 6556 1980<br>📩 Herry_Haryadi_MANSORI@spf.gov.sg |
+| **ASST REP 'D' DIV**  | **REP 'E' DIV** | **ASST REP 'E' DIV** |
+| ♀ **Muhd Shahid Jamaludin**<br>📇  Divisional Training Officer<br>📞 6872 7938<br>📩 Md_Shahid_JAMALUDIN@spf.gov.sg | ♀ **Norashidi Nordin**<br>📇 CPU Officer, Bishan NPC<br>📞 6556 1980<br>📩 Norashidi_NORDIN@spf.gov.sg | ♀ **Amirudin Nordin**<br>📇 Investigations Officer<br>📩 Amirudin_NORDIN@spf.gov.sg |
