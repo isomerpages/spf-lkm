@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: BECOME A MEMBER
           description: Membership Application
-          url: https://google.com
+          url: https://bit.ly/lkmmembership
         - title: MEMBERSHIP PRIVILEGES
           description: Find Out More
           url: https://gmail.com
