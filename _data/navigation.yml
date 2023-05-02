@@ -8,9 +8,7 @@ links:
     collection: example-folder
   - title: THE COMMITTEE
     collection: the-committee
-  - title: RESOURCES
-    collection: example-folder
   - title: GET IN TOUCH
     url: /contact-us/
   - title: BE A MEMBER
-    url: /permalink
+    url: https://bit.ly/lkmmembership
