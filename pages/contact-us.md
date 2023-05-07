@@ -15,12 +15,12 @@ locations:
     maps_link: ""
     title: Mailing Address
   - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
+      - Police HQ c/o Manpower Dept
+      - New Phoenix Park, Level 15
+      - 28 Irrawaddy Rd, S329560
+    title: Official Address
     operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
+    maps_link: ""
 contacts:
   - content:
       - phone: +65 8322 5299
