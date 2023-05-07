@@ -8,7 +8,10 @@ locations:
       - Alexandra Post Office
       - PO Box 177
       - Singapore 911506
-    operating_hours: []
+    operating_hours:
+      - days: Mon - Fri
+        time: 8.30am - 5.30pm
+        description: ""
     maps_link: ""
     title: Mailing Address
   - address:
