@@ -18,13 +18,13 @@ locations:
       - Police HQ c/o Manpower Dept
       - New Phoenix Park, Level 15
       - 28 Irrawaddy Rd, S329560
-    title: Official Address
     operating_hours: []
     maps_link: ""
+    title: Official Address
 contacts:
   - content:
       - phone: +65 8322 5299
       - email: info@lkm.org.sg
-      - other: Any text here <i>including HTML</i>
+      - other: ""
     title: General Enquiries & Feedback
 ---
