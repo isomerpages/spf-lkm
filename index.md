@@ -26,13 +26,13 @@ sections:
       title: Lembaga Khairat Muslimin
       subtitle: BERIMAN ● BERILMU ● BERAMAL
   - infopic:
-      title: LKM 66th AGM & Hari Raya Gathering
+      title: LKM 66th AGM & Hari Raya Celebration
       subtitle: UPCOMING EVENT
-      description: 📅 18 May 2023 ⏱ 10:00 - 14:30 📍HTNS Khatib, 2 Yishun Walk S767944
+      description: 📅 18 May 2023 ⏱ 10:30 - 14:00 📍HTNS Khatib, 2 Yishun Walk S767944
       button: REGISTER FOR THIS EVENT
       alt: Image alt text
       image: /images/66thagm.png
-      url: /privacy/
+      url: https://go.gov.sg/lkm-66thagm-rsvp
   - infopic:
       title: LKM Madrasah Study Grant 2022 Disbursement
       subtitle: LATEST UPDATE
