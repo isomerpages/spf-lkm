@@ -20,9 +20,6 @@ sections:
         - title: APPLY FOR A GRANT
           description: Grant Application
           url: https://bit.ly/lkmgrant
-        - title: JOIN OUR EVENTS
-          description: List of Events & Happenings
-          url: ""
       title: Lembaga Khairat Muslimin
       subtitle: BERIMAN ● BERILMU ● BERAMAL
   - infopic:
