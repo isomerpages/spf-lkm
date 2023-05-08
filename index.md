@@ -14,9 +14,9 @@ sections:
         - title: BECOME A MEMBER
           description: Membership Application
           url: https://bit.ly/lkmmembership
-        - title: MEMBERSHIP PRIVILEGES
+        - title: MEMBERSHIP BENEFITS
           description: Find Out More
-          url: https://gmail.com
+          url: /benefits
         - title: APPLY FOR A GRANT
           description: Grant Application
           url: https://bit.ly/lkmgrant
