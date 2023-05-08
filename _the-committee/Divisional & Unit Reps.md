@@ -35,7 +35,7 @@ description: ""
 | **ASST REP PROCOM**  | **REP SECCOM** | **ASST REP SECCOM** |
 | ♀ **Jasman Sakaran**<br>📇  Column Leader, Troop C<br>📩 Jasman_SAKARAN@spf.gov.sg | ♀ **Zulkarnain Khalil**<br>📇 Ops Officer<br>📩 Zulkarnain_KHALIL@spf.gov.sg | ♀ **Jasman Ja'afar**<br>📇 Seccom<br>📩 Jasman_JAAFAR@spf.gov.sg |
 | <img style="float:left;width:220px;height:220px;" src="/images/shibly.png"> | <img style="float:left;width:220px;height:220px;" src="/images/placeholder.png"> | <img style="float:left;width:220px;height:220px;" src="/images/ahakim.png">
-| **REP TRANSCOM**  | **REP PDQ/POCC** | **REP PLRD** |
+| **REP TRANSCOM**  | **REP PHQ/POCC** | **REP PLRD** |
 | ♀ **Muhd Shibly Mahmat**<br>📇  Senior Field Intelligence Officer<br>📩 Muhammad_Shibly_MAHMAT@spf.gov.sg | ♂ **Murni Abdul Manap**<br>📇 Watch Officer, POCC<br>📩 Murni_ABDUL_MANAP@spf.gov.sg | ♀ **Abdul Hakim Rashid**<br>📇 AOC Licensing, PELLD<br>📞 6557 5808<br>📩 Abdul_Hakim_RASHID@spf.gov.sg |
 | <img style="float:left;width:220px;height:220px;" src="/images/placeholder.png"> | <img style="float:left;width:220px;height:220px;" src="/images/hussaini.png"> | <img style="float:left;width:220px;height:220px;" src="/images/zahersamad.png">
 | **REP PID**  | **REP PLD** | **REP TRACOM** |
