@@ -3,15 +3,13 @@ title: Member Benefits
 permalink: /benefits/
 description: ""
 ---
-<br>
-
 | BEREAVEMENT GRANTS |  |
 | -------- | -------- |
-| **Member**    | $2,000     |
+| **Member**    | $2000     |
 | **Member's Spouse**     | $750     |
-| **Member's Child**     | $500     |
+| **Member's Child**    | $500     |
 | **Member's Child (Stillbirth)**     | $250     |
-| **Member's Parents**    | $300     |
+| **Member's Parents**     | $300     |
 <br>
 	
 | HOSPITALISATION GRANT |  |
@@ -26,6 +24,7 @@ description: ""
 | **Umrah**     | $100     |
 
 <br>
+
 
 | ANNUAL MADRASAH STUDY GRANT |  |
 | -------- | -------- |
