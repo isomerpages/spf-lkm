@@ -32,20 +32,20 @@ description: ""
 | **REP SOC**  | **ASST REP SOC** | **REP PROCOM** |
 | ♀ **Mohd Azman Ali**<br>📇  SOC/SOTC/STCD/RDT Tactical Riding Trainer<br>📩 Mohd_Azman_ALI@spf.gov.sg | ♀ **Zaid Ismawee**<br>📇 Driving Instructor, Star UNit<br>📞 6473 4429<br>📩 Zaid_ISMAWEE@spf.gov.sg | ♀ **Syed Helmi Alwi Aljunied**<br>📇 OC Troop, PSU B<br>📩 Syed_Helmi_Alwi_Aljunied@spf.gov.sg |
 | <img style="float:left;width:220px;height:220px;" src="/images/jasmansakaran.png"> | <img style="float:left;width:220px;height:220px;" src="/images/zulkarnain.png"> | <img style="float:left;width:220px;height:220px;" src="/images/jasmanjaafar.png">
-| **ASST REP 'D' DIV**  | **REP 'E' DIV** | **ASST REP 'E' DIV** |
+| **ASST REP PROCOM**  | **REP SECCOM** | **ASST REP SECCOM** |
 | ♀ **Muhd Shahid Jamaludin**<br>📇  Divisional Training Officer<br>📞 6872 7938<br>📩 Md_Shahid_JAMALUDIN@spf.gov.sg | ♀ **Norashidi Nordin**<br>📇 CPU Officer, Bishan NPC<br>📞 6556 1980<br>📩 Norashidi_NORDIN@spf.gov.sg | ♀ **Amirudin Nordin**<br>📇 Investigations Officer<br>📩 Amirudin_NORDIN@spf.gov.sg |
 | <img style="float:left;width:220px;height:220px;" src="/images/shibly.png"> | <img style="float:left;width:220px;height:220px;" src="/images/placeholder.png"> | <img style="float:left;width:220px;height:220px;" src="/images/ahakim.png">
-| **ASST REP 'D' DIV**  | **REP 'E' DIV** | **ASST REP 'E' DIV** |
+| **REP TRANSCOM**  | **REP PDQ/POCC** | **REP PLRD** |
 | ♀ **Muhd Shahid Jamaludin**<br>📇  Divisional Training Officer<br>📞 6872 7938<br>📩 Md_Shahid_JAMALUDIN@spf.gov.sg | ♀ **Norashidi Nordin**<br>📇 CPU Officer, Bishan NPC<br>📞 6556 1980<br>📩 Norashidi_NORDIN@spf.gov.sg | ♀ **Amirudin Nordin**<br>📇 Investigations Officer<br>📩 Amirudin_NORDIN@spf.gov.sg |
 | <img style="float:left;width:220px;height:220px;" src="/images/placeholder.png"> | <img style="float:left;width:220px;height:220px;" src="/images/hussaini.png"> | <img style="float:left;width:220px;height:220px;" src="/images/zahersamad.png">
-| **ASST REP 'D' DIV**  | **REP 'E' DIV** | **ASST REP 'E' DIV** |
+| **REP PID**  | **REP PLD** | **REP TRACOM** |
 | ♀ **Muhd Shahid Jamaludin**<br>📇  Divisional Training Officer<br>📞 6872 7938<br>📩 Md_Shahid_JAMALUDIN@spf.gov.sg | ♀ **Norashidi Nordin**<br>📇 CPU Officer, Bishan NPC<br>📞 6556 1980<br>📩 Norashidi_NORDIN@spf.gov.sg | ♀ **Amirudin Nordin**<br>📇 Investigations Officer<br>📩 Amirudin_NORDIN@spf.gov.sg |
 | <img style="float:left;width:220px;height:220px;" src="/images/placeholder.png"> | <img style="float:left;width:220px;height:220px;" src="/images/hassanal.png"> | <img style="float:left;width:220px;height:220px;" src="/images/zaleha.png">
-| **ASST REP 'D' DIV**  | **REP 'E' DIV** | **ASST REP 'E' DIV** |
+| **ASST REP TRACOM**  | **REP BAND** | **REP PNSD** |
 | ♀ **Muhd Shahid Jamaludin**<br>📇  Divisional Training Officer<br>📞 6872 7938<br>📩 Md_Shahid_JAMALUDIN@spf.gov.sg | ♀ **Norashidi Nordin**<br>📇 CPU Officer, Bishan NPC<br>📞 6556 1980<br>📩 Norashidi_NORDIN@spf.gov.sg | ♀ **Amirudin Nordin**<br>📇 Investigations Officer<br>📩 Amirudin_NORDIN@spf.gov.sg |
 | <img style="float:left;width:220px;height:220px;" src="/images/noorainie.png"> | <img style="float:left;width:220px;height:220px;" src="/images/placeholder.png"> | <img style="float:left;width:220px;height:220px;" src="/images/placeholder.png">
-| **ASST REP 'D' DIV**  | **REP 'E' DIV** | **ASST REP 'E' DIV** |
+| **REP CISCO**  | **REP CISCO CAS** | **REP CISCO J** |
 | ♀ **Muhd Shahid Jamaludin**<br>📇  Divisional Training Officer<br>📞 6872 7938<br>📩 Md_Shahid_JAMALUDIN@spf.gov.sg | ♀ **Norashidi Nordin**<br>📇 CPU Officer, Bishan NPC<br>📞 6556 1980<br>📩 Norashidi_NORDIN@spf.gov.sg | ♀ **Amirudin Nordin**<br>📇 Investigations Officer<br>📩 Amirudin_NORDIN@spf.gov.sg |
 | <img style="float:left;width:220px;height:220px;" src="/images/placeholder.png"> | <img style="float:left;width:220px;height:220px;" src="/images/mazlan.png"> | <img style="float:left;width:220px;height:220px;" src="/images/mohidsaini.png">
-| **ASST REP 'D' DIV**  | **REP 'E' DIV** | **ASST REP 'E' DIV** |
+| **REP CISCO G**  | **ASSOCIATES REP** | **ASSOCIATES REP** |
 | ♀ **Muhd Shahid Jamaludin**<br>📇  Divisional Training Officer<br>📞 6872 7938<br>📩 Md_Shahid_JAMALUDIN@spf.gov.sg | ♀ **Norashidi Nordin**<br>📇 CPU Officer, Bishan NPC<br>📞 6556 1980<br>📩 Norashidi_NORDIN@spf.gov.sg | ♀ **Amirudin Nordin**<br>📇 Investigations Officer<br>📩 Amirudin_NORDIN@spf.gov.sg |
