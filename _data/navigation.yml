@@ -2,8 +2,8 @@ logo: /images/logo-black.png
 links:
   - title: ABOUT LKM
     collection: about-lkm
-  - title: MEMBER PRIVILEGES
-    collection: example-folder
+  - title: MEMBER BENEFITS
+    url: /benefits
   - title: EVENTS
     collection: example-folder
   - title: THE COMMITTEE
