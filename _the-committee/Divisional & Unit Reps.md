@@ -48,4 +48,4 @@ description: ""
 | ♂ **Noorainie Hosnih**<br>📇  Trg Coordinator, Quality Mgmt &amp; Trg<br>📩 Noorainie_HOSNIH@certisgroup.com | ♀ **Muhammad Hasni Amin**<br>📇 Discipline &amp; Standard Master<br>📩 Muhd_Hasni_AMIN@certisgroup.com | ♀ ** Mustafa Kamal**<br>📇 Operations<br>📩 DMK211@hotmail.com |
 | <img style="float:left;width:220px;height:220px;" src="/images/placeholder.png"> | <img style="float:left;width:220px;height:220px;" src="/images/mazlan.png"> | <img style="float:left;width:220px;height:220px;" src="/images/mohidsaini.png">
 | **REP CISCO G**  | **ASSOCIATES REP** | **ASSOCIATES REP** |
-| ♀ **Muhd Shahid Jamaludin**<br>📇  Divisional Training Officer<br>📞 6872 7938<br>📩 Md_Shahid_JAMALUDIN@spf.gov.sg | ♀ **Norashidi Nordin**<br>📇 CPU Officer, Bishan NPC<br>📞 6556 1980<br>📩 Norashidi_NORDIN@spf.gov.sg | ♀ **Amirudin Nordin**<br>📇 Investigations Officer<br>📩 Amirudin_NORDIN@spf.gov.sg |
+| ♂ **Lizawati Mohammad**<br>📇  Quality &amp; Risk Compliance<br>📩 Lizawati_MOHAMAD@certisgroup.com | ♀ **Mazlan Amat**<br>📇 AM RWRL LTA<br>📩 putri3@msn.com | ♀ **Mohid Saini**<br>📞 9781 7430 |
