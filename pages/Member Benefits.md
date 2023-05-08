@@ -3,6 +3,7 @@ title: Member Benefits
 permalink: /benefits/
 description: ""
 ---
+
 | BEREAVEMENT GRANTS |  |
 | -------- | -------- |
 | **Member**    | $2,000     |
