@@ -1,15 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo-black.png
 links:
-  - title: Contact Us
+  - title: ABOUT LKM
+    collection: about-lkm
+  - title: MEMBER BENEFITS
+    url: /benefits
+  - title: THE COMMITTEE
+    collection: the-committee
+  - title: GET IN TOUCH
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: BE A MEMBER
+    url: https://bit.ly/lkmmembership

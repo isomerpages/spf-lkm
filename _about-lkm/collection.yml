@@ -1,0 +1,8 @@
+collections:
+  about-lkm:
+    output: true
+    order:
+      - Introduction.md
+      - Our History.md
+      - Our Objectives.md
+      - The Constitution.md
