@@ -32,7 +32,7 @@ sections:
       image: /images/madrasah-grant.png
       url: https://bit.ly/LKMMSG2023
   - infopic:
-      title: "Our Lose Kalorie Month Will Be Back "
+      title: Our Lose Kalorie Month Will Be Back
       subtitle: UPCOMING EVENT
       description: Look out for our virtual challenge that will be happening in
         January 2024 insyaAllah.
