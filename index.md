@@ -23,27 +23,27 @@ sections:
       title: Lembaga Khairat Muslimin
       subtitle: BERIMAN ● BERILMU ● BERAMAL
   - infopic:
-      title: LKM 66th AGM & Hari Raya Celebration
-      subtitle: UPCOMING EVENT
-      description: 📅 18 May 2023 ⏱ 10:30 - 14:00 📍HTNS Khatib, 2 Yishun Walk S767944
-      button: REGISTER FOR THIS EVENT
-      alt: Image alt text
-      image: /images/66thagm.png
-      url: https://go.gov.sg/lkm-66thagm-rsvp
-  - infopic:
-      title: LKM Madrasah Study Grant 2022 Disbursement
-      subtitle: LATEST UPDATE
-      description: A total of $38,900 was disbursed on 20 March 2023 to 254 members’
-        children who underwent Full-Time & Part-Time madrasah education in
-        Y2022.
+      title: Applications for LKM Madrasah Study Grant 2023 Now Open
+      subtitle: LATEST NEWS
+      description: Successful applicants will be awarded S$100 (per child) for
+        part-time & S$300 (per child) for full-time study.
+      button: APPLY NOW
       alt: Image alt text
       image: /images/madrasah-grant.png
+      url: https://bit.ly/LKMMSG2023
   - infopic:
-      title: LKM Family & Friends Bowling Challenge 2022
+      title: "Our Lose Kalorie Month Will Be Back "
+      subtitle: UPCOMING EVENT
+      description: Look out for our virtual challenge that will be happening in
+        January 2024 insyaAllah.
+      alt: Image alt text
+      image: /images/losekaloriemonth.png
+  - infopic:
+      title: LKM 66th AGM & Hari Raya Celebration
       subtitle: PAST EVENT
-      description: 📅 26 Nov 2022 📍Civil Service Club @ Bukit Batok
+      description: 📅 18 May 2023 📍HTNS Khatib
       button: NEVER MISS AN EVENT
       alt: Image alt text
       url: https://t.me/+sVTf87fzP0ZlZDE1
-      image: /images/lkm-bowling.png
+      image: /images/66thagm2.png
 ---
