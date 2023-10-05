@@ -34,8 +34,8 @@ sections:
   - infopic:
       title: Our Lose Kalorie Month Will Be Back
       subtitle: UPCOMING EVENT
-      description: Look out for our virtual challenge that will be happening in
-        January 2024 insyaAllah.
+      description: Prepare your calories burn tracker app & look out for our virtual
+        challenge that will be happening in January 2024 insyaAllah.
       alt: Image alt text
       image: /images/losekaloriemonth.png
   - infopic:
