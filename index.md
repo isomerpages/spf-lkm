@@ -23,14 +23,15 @@ sections:
       title: Lembaga Khairat Muslimin
       subtitle: BERIMAN ● BERILMU ● BERAMAL
   - infopic:
-      title: Applications for LKM Madrasah Study Grant 2023 Now Open
-      subtitle: LATEST NEWS
-      description: Successful applicants will be awarded S$100 (per child) for
-        part-time & S$300 (per child) for full-time study.
-      button: APPLY NOW
+      title: LKM 67TH AGM & Hari Raya Celebration
+      subtitle: UPCOMING EVENT
+      description: >
+        📅 9 May 2024 🕐 11:30am - 02:00pm 📍HTNS Khatib, 2 Yishun Walk 💲 $10
+        (Ordinary Members), FOC (Associate & Retirees)
+      button: JOIN US
       alt: Image alt text
       image: /images/madrasah-grant.png
-      url: https://bit.ly/LKMMSG2023
+      url: " https://go.gov.sg/67agmharirayacelebration"
   - infopic:
       title: Our Lose Kalorie Month Will Be Back
       subtitle: UPCOMING EVENT
