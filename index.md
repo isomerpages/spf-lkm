@@ -25,26 +25,28 @@ sections:
   - infopic:
       title: LKM 67TH AGM & Hari Raya Celebration
       subtitle: UPCOMING EVENT
-      description: >
-        📅 9 May 2024 🕐 11:30am - 02:00pm 📍HTNS Khatib, 2 Yishun Walk 💲 $10
-        (Ordinary Members), FOC (Associate & Retirees)
+      description: 📅 9 May 2024 🕐 11:30am - 02:00pm 📍HTNS Khatib, 2 Yishun Walk 💲
+        $10 (Ordinary Members), FOC (Associate & Retirees)
       button: JOIN US
       alt: Image alt text
-      image: /images/madrasah-grant.png
-      url: " https://go.gov.sg/67agmharirayacelebration"
+      image: /images/66agm.png
+      url: https://go.gov.sg/67agmharirayacelebration
   - infopic:
-      title: Our Lose Kalorie Month Will Be Back
-      subtitle: UPCOMING EVENT
-      description: Prepare your calories burn tracker app & look out for our virtual
-        challenge that will be happening in January 2024 insyaAllah.
+      title: LKM Madrasah Grant 2023 Disbursement
+      subtitle: LATEST UPDATE
+      description: A total of $41,200 was disbursed on 29 March 2024 to 276 members'
+        children who underwent Full-Time & Part-Time Madrasah education in
+        Y2023.
       alt: Image alt text
-      image: /images/losekaloriemonth.png
+      image: /images/madrasah-grant.png
   - infopic:
-      title: LKM 66th AGM & Hari Raya Celebration
+      title: Lose Kalorie Month
       subtitle: PAST EVENT
-      description: 📅 18 May 2023 📍HTNS Khatib
+      description: >
+        Congratulations to our top 30 winners & thank you to all our amazing
+        participants for making the event in January 2024 a success!
       button: NEVER MISS AN EVENT
       alt: Image alt text
-      url: https://t.me/+sVTf87fzP0ZlZDE1
-      image: /images/66thagm2.png
+      url: https://www.facebook.com/lkmpolisrepabliksingapura/
+      image: /images/losekaloriemonth.png
 ---
