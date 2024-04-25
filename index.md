@@ -42,9 +42,8 @@ sections:
   - infopic:
       title: Lose Kalorie Month
       subtitle: PAST EVENT
-      description: >
-        Congratulations to our top 30 winners & thank you to all our amazing
-        participants for making the event in January 2024 a success!
+      description: Congratulations to our top 30 winners & thank you to all our
+        amazing participants for making the event in January 2024 a success!
       button: NEVER MISS AN EVENT
       alt: Image alt text
       url: https://www.facebook.com/lkmpolisrepabliksingapura/
