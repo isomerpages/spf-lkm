@@ -2,6 +2,7 @@
 title: The Constitution
 permalink: /about-lkm/constitution/
 description: ""
+variant: markdown
 ---
 _Reviewed &amp; updated on 1 May 2023_
 
@@ -250,7 +251,7 @@ The services of all members of the Management Committee and the Divisional Repre
 
 a) Gambling of any kind and the playing of paikow or mahjong, whether for stakes or not, is forbidden on the Lembaga's premises. The introduction of materials for gambling or drug taking and of bad characters into the premises is prohibited.<br>
 
-b) The funds of the Lemaga shall not be used to pay the fines and/or legal expenses of members who have been convicted in Court. The Lembaga shall not raise funds from the public without the approval of the Registrar of Societies and other relevant Government authorities.<br>
+b) The funds of the Lembaga shall not be used to pay the fines and/or legal expenses of members who have been convicted in Court. The Lembaga shall not raise funds from the public without the approval of the Registrar of Societies and other relevant Government authorities.<br>
 
 c) The Lembaga shall not attempt to restrict or in any other manner interfere with trade or prices or engage in any Trade Union activity as defined in any written law relating to trade unions for the time being in force in Singapore.<br>
 
