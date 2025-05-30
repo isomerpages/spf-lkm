@@ -43,7 +43,7 @@ sections:
         Mount Pleasant Rd S298341 💲 $35/pax
       button: JOIN US
       alt: Image alt text
-      image: /images/66agm.png
+      image: /images/01karaoke.jpg
       url: https://go.gov.sg/LKMHighTea25
   - infopic:
       title: "4D4N of Terengganu: From Crystal Minarets to Coral Reefs"
@@ -51,7 +51,7 @@ sections:
       description: 📅 12 - 16 June 2025 💲 $350 (single) $500 (double) $680 (triple),
         $150 (Coach)
       alt: Image alt text
-      image: /images/madrasah-grant.png
+      image: /images/02LKMTrip25.jpg
       button: JOIN US
       url: go.gov.sg/LKMTrip25
   - infopic:
@@ -62,5 +62,5 @@ sections:
       button: NEVER MISS AN EVENT
       alt: Image alt text
       url: https://www.facebook.com/lkmpolisrepabliksingapura/
-      image: /images/losekaloriemonth.png
+      image: /images/03FamilyDay25.jpg
 ---
