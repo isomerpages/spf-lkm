@@ -37,22 +37,23 @@ sections:
           link_text: View the updated benefit amounts here
           link_url: /benefits/
   - infopic:
-      title: LKM 67TH AGM & Hari Raya Celebration
+      title: Ladies' High Tea Brunch & Karaoke (Bollywood Theme)
       subtitle: UPCOMING EVENT
-      description: 📅 9 May 2024 🕐 11:30am - 02:00pm 📍HTNS Khatib, 2 Yishun Walk 💲
-        $10 (Ordinary Members), FOC (Associate & Retirees)
+      description: 📅 21 June 2025 (Sat) 🕐 2:00pm - 05:00pm 📍SPOM Dining Hall, 153
+        Mount Pleasant Rd S298341 💲 $35/pax
       button: JOIN US
       alt: Image alt text
       image: /images/66agm.png
-      url: https://go.gov.sg/67agmharirayacelebration
+      url: https://go.gov.sg/LKMHighTea25
   - infopic:
-      title: LKM Madrasah Grant 2023 Disbursement
-      subtitle: LATEST UPDATE
-      description: A total of $41,200 was disbursed on 29 March 2024 to 276 members'
-        children who underwent Full-Time & Part-Time Madrasah education in
-        Y2023.
+      title: "4D4N of Terengganu: From Crystal Minarets to Coral Reefs"
+      subtitle: UPCOMING TRIP
+      description: 📅 12 - 16 June 2025 💲 $350 (single) $500 (double) $680 (triple),
+        $150 (Coach)
       alt: Image alt text
       image: /images/madrasah-grant.png
+      button: JOIN US
+      url: go.gov.sg/LKMTrip25
   - infopic:
       title: Lose Kalorie Month
       subtitle: PAST EVENT
