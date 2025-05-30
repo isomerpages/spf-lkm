@@ -22,6 +22,20 @@ sections:
           url: https://bit.ly/lkmgrant
       title: Lembaga Khairat Muslimin
       subtitle: BERIMAN ● BERILMU ● BERAMAL
+  - announcements:
+      title: Latest Updates & Announcements
+      id: announcements
+      subtitle: What's new at lkm
+      announcement_items:
+        - title: Benefit Amounts Increased
+          date: 01 June 2025
+          announcement: We're pleased to share that the quantum for all member benefits
+            has been revised, including updated amounts for bereavement,
+            hospitalisation, and ibadah-related support. In grief, recovery, or
+            worship, these changes ensure continued care, and lasting reward for
+            every contributor.
+          link_text: ""
+          link_url: ""
   - infopic:
       title: LKM 67TH AGM & Hari Raya Celebration
       subtitle: UPCOMING EVENT
