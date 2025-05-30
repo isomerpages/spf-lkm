@@ -55,7 +55,7 @@ sections:
       button: JOIN US
       url: go.gov.sg/LKMTrip25
   - infopic:
-      title: Lose Kalorie Month
+      title: LKM 68th AGM & Family Day Concert and Carnival
       subtitle: PAST EVENT
       description: Congratulations to our top 30 winners & thank you to all our
         amazing participants for making the event in January 2024 a success!
