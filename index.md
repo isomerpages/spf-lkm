@@ -57,8 +57,9 @@ sections:
   - infopic:
       title: LKM 68th AGM & Family Day Concert and Carnival
       subtitle: PAST EVENT
-      description: Congratulations to our top 30 winners & thank you to all our
-        amazing participants for making the event in January 2024 a success!
+      description: A day of families, friendship & fun, our Family Day reminded us
+        what community feels like. Alhamdulillah for the memories, & thank you
+        for being there.
       button: NEVER MISS AN EVENT
       alt: Image alt text
       url: https://www.facebook.com/lkmpolisrepabliksingapura/
