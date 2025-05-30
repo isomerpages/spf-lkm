@@ -2,39 +2,31 @@
 title: Member Benefits
 permalink: /benefits/
 description: ""
+variant: markdown
 ---
-
 <br>
 	
 | HOSPITALISATION GRANT |  |
 | -------- | -------- |
-| **Capped at once per calendar year*    | $50     |
+| **Capped at once per calendar year*    | $100     |
 
 <br>
 
 
 | HAJJ/UMRAH GRANTS |  |
 | -------- | -------- |
-| **Hajj**    | $200     |
-| **Umrah**     | $100     |
+| **Hajj**    | $300/trip     |
+| **Umrah**     | $150/trip     |
 
 <br>
 
 | BEREAVEMENT GRANTS |  | 
 | -------- | -------- | 
-| **Member**     | $2000     | 
-| **Member's Spouse**     | $750    | 
-| **Member's Child**     | $500     | 
-| **Member's Child (Stillbirth)**     | $250     | 
-| **Member's Parents**    | $300     | 
-
-<br>
-
-
-| ANNUAL MADRASAH STUDY GRANT |  |
-| -------- | -------- |
-| **Full-Time**    | $300     |
-| **Part-Time**     | $100     |
+| **Member**     | $3000     | 
+| **Member's Spouse**     | $1,150    | 
+| **Member's Child**     | $750     | 
+| **Member's Child (Stillbirth)**     | $400     | 
+| **Member's Parents**    | $450     | 
 
 <br>
 
