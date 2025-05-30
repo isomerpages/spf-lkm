@@ -34,8 +34,8 @@ sections:
             hospitalisation, and ibadah-related support. In grief, recovery, or
             worship, these changes ensure continued care, and lasting reward for
             every contributor.
-          link_text: ""
-          link_url: ""
+          link_text: View the updated benefit amounts here
+          link_url: /benefits/
   - infopic:
       title: LKM 67TH AGM & Hari Raya Celebration
       subtitle: UPCOMING EVENT
