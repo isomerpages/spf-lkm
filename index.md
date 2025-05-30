@@ -64,4 +64,18 @@ sections:
       alt: Image alt text
       url: https://www.facebook.com/lkmpolisrepabliksingapura/
       image: /images/03FamilyDay25.jpg
+  - infocols:
+      title: Did You Know?
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Community Funded
+          description: LKM is fully community-funded. Every benefit you receive comes from
+            another member's contribution.
+        - title: One Claim = Years' Worth
+          description: A single claim for bereavement, hospitalisation, or ibadah often
+            covers years' worth of membership fees
+        - title: Just WhatsApp
+          description: You can WhatsApp or call our staff directly at 83225299. No need to
+            write a formal email for simple queries
 ---
