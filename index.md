@@ -22,30 +22,60 @@ sections:
           url: https://bit.ly/lkmgrant
       title: Lembaga Khairat Muslimin
       subtitle: BERIMAN ● BERILMU ● BERAMAL
+  - announcements:
+      title: Latest Updates & Announcements
+      id: announcements
+      subtitle: What's new at lkm
+      announcement_items:
+        - title: Benefit Amounts Increased
+          date: 01 June 2025
+          announcement: We're pleased to share that the quantum for all member benefits
+            has been revised, including updated amounts for bereavement,
+            hospitalisation, and ibadah-related support. In grief, recovery, or
+            worship, these changes ensure continued care, and lasting reward for
+            every contributor.
+          link_text: View the updated benefit amounts here
+          link_url: /benefits/
   - infopic:
-      title: LKM 67TH AGM & Hari Raya Celebration
+      title: Ladies' High Tea Brunch & Karaoke (Bollywood Theme)
       subtitle: UPCOMING EVENT
-      description: 📅 9 May 2024 🕐 11:30am - 02:00pm 📍HTNS Khatib, 2 Yishun Walk 💲
-        $10 (Ordinary Members), FOC (Associate & Retirees)
+      description: 📅 21 June 2025 (Sat) 🕐 2:00pm - 05:00pm 📍SPOM Dining Hall, 153
+        Mount Pleasant Rd S298341 💲 $35/pax
       button: JOIN US
       alt: Image alt text
-      image: /images/66agm.png
-      url: https://go.gov.sg/67agmharirayacelebration
+      image: /images/01karaoke.jpg
+      url: https://go.gov.sg/LKMHighTea25
   - infopic:
-      title: LKM Madrasah Grant 2023 Disbursement
-      subtitle: LATEST UPDATE
-      description: A total of $41,200 was disbursed on 29 March 2024 to 276 members'
-        children who underwent Full-Time & Part-Time Madrasah education in
-        Y2023.
+      title: "4D4N of Terengganu: From Crystal Minarets to Coral Reefs"
+      subtitle: UPCOMING TRIP
+      description: 📅 12 - 16 June 2025 💲 $350 (single) $500 (double) $680 (triple),
+        $150 (Coach)
       alt: Image alt text
-      image: /images/madrasah-grant.png
+      image: /images/02LKMTrip25.jpg
+      button: JOIN US
+      url: go.gov.sg/LKMTrip25
   - infopic:
-      title: Lose Kalorie Month
+      title: LKM 68th AGM & Family Day Concert and Carnival
       subtitle: PAST EVENT
-      description: Congratulations to our top 30 winners & thank you to all our
-        amazing participants for making the event in January 2024 a success!
+      description: A day of families, friendship & fun, our Family Day reminded us
+        what community feels like. Alhamdulillah for the memories, & thank you
+        for being there.
       button: NEVER MISS AN EVENT
       alt: Image alt text
       url: https://www.facebook.com/lkmpolisrepabliksingapura/
-      image: /images/losekaloriemonth.png
+      image: /images/03FamilyDay25.jpg
+  - infocols:
+      title: Did You Know?
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Islamic Education
+          description: LKM sets aside yearly funds to support your child's madrasah
+            journey. Apply when the window opens.
+        - title: One Claim = Years' Worth
+          description: A single claim for bereavement, hospitalisation, or ibadah often
+            covers years' worth of membership fees
+        - title: Just WhatsApp
+          description: You can WhatsApp or call our staff directly at 83225299. No need to
+            write a formal email for simple queries
 ---
