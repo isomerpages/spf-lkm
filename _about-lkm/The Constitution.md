@@ -85,8 +85,8 @@ of the Lembaga shall pay:
 </p>
 <p>a) an entrance fee of $3.00; and</p>
 <p>b) a monthly subscription:
-<br>(i) Ordinary - $8.00 per month
-<br>(ii) Associate - $5.00 per month</p>
+<br>i) Ordinary - $8.00 per month
+<br>ii) Associate - $5.00 per month</p>
 <h4><strong>9.&nbsp;CESSATION OF MEMBERSHIP</strong></h4>
 <p>A person shall cease to be a member in the event of :
 <br>a) death;
@@ -257,58 +257,40 @@ meeting of the Management Committee; and</p>
 </p>
 <p>The Honorary Assistant Secretary shall:</p>
 <p>i) assist the Honorary Secretary in his duties under Rule 15(a) to (k);
-and</p>
-<p>ii) prepare vouchers which have been approved by the Management Committee;
-<br>iii) be responsible for collecting and receiving money and depositing
-them into a bank daily as directed by the Management Committee;
-<br>iv) issue and sign all receipts;
-<br>v) prepare monthly statement of accounts for submission to the monthly
-meeting of the Management Committee; and
-<br>vi) prepare and maintain a record of all properties.</p>
-<p><strong>f) Honorary Assistant Treasurer</strong>
-<br>
+and
+<br>ii) act for the Honorary Secretary in his absence.</p>
+<p><strong>(b) Honorary Assistant Treasurer</strong>
 </p>
-<p>The Honorary Assistant Treasurer shall:-
-<br>i) assist the Honorary Treasurer in his duties under Rule 14(e)(i) to
-(e)(vi); and
+<p>The Honorary Assistant Treasurer shall:</p>
+<p>i) assist the Honorary Treasurer in his duties under Rule 16(a) to (f);
+and
 <br>ii) act for the Honorary Treasurer in his absence.</p>
-<h4><strong>15.&nbsp;HONORARY AUDITORS</strong></h4>
-<p>The Honorary Auditors shall:-
-<br>i) audit and confirm all the books and financial documents at least once
-in two months;
-<br>ii) certify all the audited books and documents;
-<br>iii) certify all the Annual Statement of Accounts; and
-<br>iv) perform any other duties connected with finance as directed by the
+<h4><strong>18.&nbsp;INTERNAL AUDITORS</strong></h4>
+<p>The Internal Auditors shall:</p>
+<p>a) audit and confirm all books and financial documents at least once in
+two months;</p>
+<p>b) certify all the audited books and documents;</p>
+<p>c) certify all the Annual Statement of Accounts; and</p>
+<p>d) perform any other duties connected with finance as directed by the
 Management Committee.</p>
-<h4><strong>16.&nbsp;SIGNING OF CHEQUES</strong></h4>
-<p>All cheques issued by the Lembaga shall be signed by:-
-<br>
-</p>
-<p>a) The Assistant Director (Employee Well-Being &amp; Services) or Manager
-(Employee Well-Being), MPD,
-<br>
-</p>
-<p>b) the President or Vice President; and
-<br>
-</p>
+<h4><strong>19.&nbsp;SIGNING OF CHEQUES</strong></h4>
+<p>All cheques issued by the Lembaga shall be signed by:</p>
+<p>a) Assistant Director (Employee Well-Being &amp; Services) or Manager
+(Employee Well-Being), Manpower Department;</p>
+<p>b) the President or Vice President; and</p>
 <p>c) the Honorary Secretary or Honorary Assistant Secretary</p>
-<h4><strong>17.&nbsp;EX-OFFICIO TREASURER</strong></h4>
-<p>The Assistant Director (Employee Well-Being &amp; Services) or Manager
-(Employee Well-Being), MPD shall be Ex-Officio Treasurer.</p>
-<h4><strong>18.&nbsp;BOARD OF TRUSTEE</strong></h4>
-<p>a) A board of Trustees shall be responsible for the immovable properties
-and investment of funds;
-<br>
-</p>
-<p>b) The Board shall comprise the following:-
-<br>i) Director Manpower;
+<h4><strong>20.&nbsp;BOARD OF TRUSTEE</strong></h4>
+<p>a) A Board of Trustees shall be responsible for the immovable properties
+and investment of funds; and</p>
+<p>b) The Board shall comprise of the following:</p>
+<p>i) Director Manpower;
 <br>ii) Assistant Director (Employee Well-Being &amp; Services), MPD;
 <br>iii) the President; and
 <br>iv) any other Police Officer or official as the Commissioner of Police
 thinks fit to nominate from time to time.</p>
-<h4><strong>19.&nbsp;DIVISIONAL REPRESENTATIVES</strong></h4>
-<p>a) Director / Commander of Department / Divisions shall nominate two representatives
-to sit in the monthly Management Committee meetings.
+<h4><strong>21.&nbsp;DIVISIONAL REPRESENTATIVES</strong></h4>
+<p>a) Director of Departments / Commander of Divisions shall nominate two
+representatives to sit in the monthly Management Committee meetings.
 <br>
 </p>
 <p>b) A divisional representative who has been absent from three consecutive
@@ -316,13 +298,12 @@ meetings without a satisfactory reason will be considered as having vacated
 his position.
 <br>
 </p>
-<p>c) The Director / Commander of the Department / Division shall nominate
-another representative to fill in the vacancy on the advice of the Management
-Committee.</p>
-<h4><strong>20.&nbsp;VOLUNTARY WORK</strong></h4>
-<p>The services of all members of the Management Committee and the Divisional
+<p>c) Director of Departments / Commander of Divisions shall nominate another
+representative to fill in the vacancy on the advice of the Management Committee.</p>
+<h4><strong>22.&nbsp;VOLUNTARY WORK</strong></h4>
+<p>The services of all members of the Management Committee and Divisional
 Representatives are gratuitous.</p>
-<h4><strong>21.&nbsp;PROHIBITION</strong></h4>
+<h4><strong>23.&nbsp;PROHIBITION</strong></h4>
 <p>a) Gambling of any kind and the playing of paikow or mahjong, whether
 for stakes or not, is forbidden on the Lembaga's premises. The introduction
 of materials for gambling or drug taking and of bad characters into the
@@ -348,46 +329,46 @@ members.
 </p>
 <p>e) The Lembaga shall not indulge in any political activity or allow its
 fund and/or premises to be used for political purposes.</p>
-<h4><strong>22.&nbsp;FINANCIAL GRANTS, CONTRIBUTIONS AND DONATIONS</strong></h4>
-<p>The followings are the benefits for Ordinary &amp; Associate members:
+<h4><strong>24.&nbsp;FINANCIAL GRANTS, CONTRIBUTIONS AND DONATIONS</strong></h4>
+<p>The followings are the benefits for Ordinary members:
 <br>
 </p>
 <p><strong>a) Death Grants:</strong>
-<br>
-</p>
-<p>(i) Member’s Parents
-<br>(ii) Member’s
-<br>(iii) Member’s Spouse
-<br>(iv) Member’s Child (under 21 years of age)
+<br>i) Member
+<br>ii) Member’s Parent
+<br>iii) Member’s Spouse
+<br>iv) Member’s Child (under 21 years of age)
 <br>
 </p>
 <p><strong>b) Hospitalization Grant</strong>
-<br>(Capped at once per annum – to be claimed within 1 year from the date
-of discharge per financial year)
+<br>Cap at once per annum – to be claimed within one year from the date of
+discharge
 <br>
 </p>
-<p><strong>c) Grants for Haj &amp; Umrah (no cap)</strong>
+<p><strong>c) Grants for Haj &amp; Umrah</strong>
 </p>
-<p><strong>d) Privileges to join activities organized by LKM</strong>
+<p><strong>d) Privileges to join activities organised by the Lembaga</strong>
 </p>
-<p><strong>e) Each member may receive one of the following items on a yearly basis (Subject to Management Committee Decision):</strong>
+<p><strong>e) Each member may receive one of the following items on a yearly basis (subject to Management Committee's decisions):</strong>
 </p>
-<p>(i) Islamic Calenders &amp; Prayer Time Table
-<br>(ii) Dates for Ramadhan
-<br>(iii) Hari Raya Money Envelopes</p>
-<h4><strong>23.&nbsp;SALARIES AND ALLOWANCES</strong></h4>
+<p>i) Member’s Birthday Vouchers;
+<br>ii) Islamic Calendar;
+<br>iii) Prayer Time Table;
+<br>iv) Hari Raya Greeting Card; and
+<br>v) Hari Raya Money Envelopes.</p>
+<p>An associate member shall receive similar benefits as an ordinary member.</p>
+<h4><strong>25.&nbsp;SALARIES AND ALLOWANCES</strong></h4>
 <p>The salaries and/or allowances of all employees of the Lembaga shall be
 determined by the Management Committee.</p>
-<h4><strong>24.&nbsp;MORAL / RELIGIOUS EDUCATIONAL ACTIVITIES</strong></h4>
-<p>All lectures, seminar, conferences, classes or outdoor activities pertaining
+<h4><strong>26.&nbsp;MORAL / RELIGIOUS EDUCATIONAL ACTIVITIES</strong></h4>
+<p>All lectures, seminars, conferences, classes or outdoor activities pertaining
 to religious and/or moral education to members and/or non members must
 be conducted by Asatizahs from Asatizah Recognition Scheme (ARS) / recognised
 by MUIS, and/or subject to the approval of the Management Committee.</p>
-<h4><strong>25.&nbsp;EDUCATIONAL GRANTS / BURSARIES / SCHOLARSHIP</strong></h4>
+<h4><strong>27.&nbsp;EDUCATIONAL GRANTS / BURSARIES / SCHOLARSHIP</strong></h4>
 <p>a) The Management Committee may provide scholarships/bursaries or educational
-grants to members,’ associate members’ and non members’ child(ren), either
-directly or jointly with SPF Welfare Division and/or any other relevant
-organisations.
+grants to members', associate members’ and non members’ child(ren), either
+directly or jointly with SPF MPD and/or any other relevant organisations.
 <br>
 </p>
 <p>b) For this purpose, the Management Committee shall appoint a Scholarship
@@ -400,25 +381,20 @@ from the Management Committee.
 </p>
 <p>d) The Management Committee shall decide on the number and the value of
 scholarships to be awarded.</p>
-<h4><strong>26.&nbsp;APPROVAL BY COMMISSIONER OF POLICE</strong></h4>
-<p>All the Rules shall be subject to the approval of the Commissioner of
-Police who shall be kept informed of all matters of the Lembaga through
-Director Manpower and Assistant Director (Employee Well-Being &amp; Services),
-MPD.</p>
-<h4><strong>27.&nbsp;CONSTITUTIONAL AMENDMENTS</strong></h4>
-<p>Amendments and additions to the Constitution and Rules at the Annual General
-Meeting shall only come into force after the approval by the Commissioner
-of Police and the Registrar of Societies.</p>
-<h4><strong>28.&nbsp;GRIEVANCES</strong></h4>
+<h4><strong>28.&nbsp;CONSTITUTIONAL AMENDMENTS</strong></h4>
+<p>Any additions or amendments to the existing rules of the Lembaga can only
+be made at an Annual General Meeting or Extraordinary General Meeting.
+The amendments to the Rules, which have been accepted by the members, shall
+subsequently be approved by the Commissioner of Police before submission
+to the Registry of Societies.</p>
+<h4><strong>29.&nbsp;GRIEVANCES</strong></h4>
 <p>a) Any member or body of members who has grievances against the Lembaga
-may refer the matter to the Management Committee which shall endeavour
-to redress the grievances.
-<br>
-</p>
+may refer the matter to the Management Committee who shall endeavour to
+redress the grievances.</p>
 <p>b) In the event of no settlement being arrived at, the Management Committee
 and the aggrieved party shall present their cases, either jointly or severally
 to a general meeting of members.</p>
-<h4><strong>29.&nbsp;DISSOLUTION</strong></h4>
-<p>The Lembaga may be dissolved with the approval of three-quarters of the
-total number of members who have appended their signatures on a document
+<h4><strong>30.&nbsp;DISSOLUTION</strong></h4>
+<p>The Lembaga may be dissolved with the approval of <u>three-quarter</u> of
+the total number of members who have appended their signatures on a document
 of dissolution.</p>
