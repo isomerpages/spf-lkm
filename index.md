@@ -53,7 +53,7 @@ sections:
       alt: Image alt text
       image: /images/02LKMTrip25.jpg
       button: JOIN US
-      url: go.gov.sg/LKMTrip25
+      url: https://go.gov.sg/LKMTrip25
   - infopic:
       title: LKM 68th AGM & Family Day Concert and Carnival
       subtitle: PAST EVENT

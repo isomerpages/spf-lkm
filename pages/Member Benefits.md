@@ -170,4 +170,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>To apply for any of the above benefits, please complete the <a href="https://go.gov.sg/LKMGrant" rel="noopener nofollow" target="_blank">Grant Application Form</a>.</p>
