@@ -69,9 +69,9 @@ sections:
       id: infocols
       linktext: Learn more
       infoboxes:
-        - title: Community Funded
-          description: LKM is fully community-funded. Every benefit you receive comes from
-            another member's contribution.
+        - title: Islamic Education
+          description: LKM sets aside yearly funds to support your child's madrasah
+            journey. Apply when the window opens.
         - title: One Claim = Years' Worth
           description: A single claim for bereavement, hospitalisation, or ibadah often
             covers years' worth of membership fees
