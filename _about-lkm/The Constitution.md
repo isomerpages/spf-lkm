@@ -240,7 +240,7 @@ to the Management Committee; and
 <br>
 <br>k) endorse all payments and sign all cheques issued by the Lembaga.</p>
 <h4><strong>16.&nbsp;HONORARY TREASURER</strong></h4>
-<p>The Honorary Assistant Secretary shall:
+<p>The Honorary Treasurer shall:
 <br>
 <br>a) prepare the Annual Statement of Accounts and estimates of annual expenditure
 and income for submission to the Annual General Meeting;
