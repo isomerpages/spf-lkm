@@ -34,7 +34,7 @@ sections:
   - infopic:
       title: Madrasah Study Grants 2025 Disbursement
       subtitle: NEWS UPDATE
-      description: Alhamdulillah, 349 children benefited from the grant, with &50,700
+      description: Alhamdulillah, 349 children benefited from the grant, with $50,700
         disbursed.
       alt: Image alt text
       image: /images/madrasah-grant.png
