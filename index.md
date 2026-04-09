@@ -29,17 +29,15 @@ sections:
         Walk S767944 💲 $10 (Ordinary), FREE (Associate/LKM Retiree)
       button: JOIN US
       alt: Image alt text
-      image: /images/01karaoke.jpg
+      image: /images/agm26.jpg
       url: https://go.gov.sg/LKMAGM26
   - infopic:
-      title: "4D4N of Terengganu: From Crystal Minarets to Coral Reefs"
-      subtitle: UPCOMING TRIP
-      description: 📅 12 - 16 June 2025 💲 $350 (single) $500 (double) $680 (triple),
-        $150 (Coach)
+      title: Madrasah Study Grants 2025 Disbursement
+      subtitle: NEWS UPDATE
+      description: Alhamdulillah, 349 children benefited from the grant, with &50,700
+        disbursed.
       alt: Image alt text
-      image: /images/02LKMTrip25.jpg
-      button: JOIN US
-      url: https://go.gov.sg/LKMTrip25
+      image: /images/madrasah-grant.png
   - infopic:
       title: LKM 68th AGM & Family Day Concert and Carnival
       subtitle: PAST EVENT
