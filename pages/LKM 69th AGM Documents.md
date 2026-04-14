@@ -10,7 +10,7 @@ description: ""
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Minutes of Previous Annual General Meeting</strong>
-<br> <a href="/files/File_A1___Minutes_of_Meeting_for_68th_LKM_AGM_on_24_May_2025.pdf" rel="noopener nofollow" target="_blank">Minutes of 68th LKM AGM</a>
+<br><a href="/files/File_A1___Minutes_of_Meeting_for_68th_LKM_AGM_on_24_May_2025.pdf" rel="noopener nofollow" target="_blank">Minutes of 68th LKM AGM</a>
 </p>
 </li>
 <li>
